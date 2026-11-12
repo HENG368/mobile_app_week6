@@ -1,0 +1,58 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "characters",
+      "rootUri": "file:///home/none_nano/.pub-cache/hosted/pub.dev/characters-1.4.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "collection",
+      "rootUri": "file:///home/none_nano/.pub-cache/hosted/pub.dev/collection-1.19.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "flutter",
+      "rootUri": "file:///home/none_nano/flutter/packages/flutter",
+      "packageUri": "lib/",
+      "languageVersion": "3.11"
+    },
+    {
+      "name": "material_color_utilities",
+      "rootUri": "file:///home/none_nano/.pub-cache/hosted/pub.dev/material_color_utilities-0.13.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.5"
+    },
+    {
+      "name": "meta",
+      "rootUri": "file:///home/none_nano/.pub-cache/hosted/pub.dev/meta-1.19.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.5"
+    },
+    {
+      "name": "sky_engine",
+      "rootUri": "file:///home/none_nano/flutter/bin/cache/pkg/sky_engine",
+      "packageUri": "lib/",
+      "languageVersion": "3.11"
+    },
+    {
+      "name": "vector_math",
+      "rootUri": "file:///home/none_nano/.pub-cache/hosted/pub.dev/vector_math-2.4.4",
+      "packageUri": "lib/",
+      "languageVersion": "3.10"
+    },
+    {
+      "name": "w6_practice",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    }
+  ],
+  "generator": "pub",
+  "generatorVersion": "3.13.5",
+  "flutterRoot": "file:///home/none_nano/flutter",
+  "flutterVersion": "3.47.7",
+  "pubCache": "file:///home/none_nano/.pub-cache"
+}
